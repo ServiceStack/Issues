@@ -4,7 +4,8 @@ ServiceStack Issues
 This is the Issue Tracker for commercial customers of ServiceStack only. 
 Please register your email or GitHub username at www.servicestack.net before reporting an issue.
 
-You can [Report Issues here](https://github.com/ServiceStack/Issues/issues/new).
+You can [view existing issues](https://github.com/ServiceStack/Issues/issues) or 
+[report a new issue](https://github.com/ServiceStack/Issues/issues/new).
 
 ## How to create a good Bug Report?
 
