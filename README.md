@@ -6,6 +6,8 @@ Please register your email or GitHub username at www.servicestack.net before rep
 
 #### You can [view existing issues](https://github.com/ServiceStack/Issues/issues) or [report a new issue](https://github.com/ServiceStack/Issues/issues/new).
 
+Request new features over at [ServiceStack's UserVoice](http://servicestack.uservoice.com/forums/176786-feature-requests).
+
 ## How to create a good Bug Report?
 
 If your bug report is effective, chances are higher that it will get fixed. So fixing a bug depends on how 
