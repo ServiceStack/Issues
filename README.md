@@ -2,7 +2,7 @@ ServiceStack Issues
 ===================
 
 This is the Issue Tracker for commercial customers of ServiceStack only. 
-Please register your email or GitHub username at https://servicestack.net before reporting any issues.
+Please register your email or GitHub username at https://servicestack.net/account/support before reporting any issues.
 
 #### You can [view existing issues](https://github.com/ServiceStack/Issues/issues) or [report a new issue](https://github.com/ServiceStack/Issues/issues/new).
 
