@@ -1,0 +1,12 @@
+Failed to acticate the indie license.
+
+I have purchased one Indie license of ServiceStack.Text, 
+but even I have registered it into my web project I still was prompted with "Free Quota Limited" exception.
+
+I have tried all three ways of registration but no way worked.
+
+Could you please give me some guide on how to make ServiceStack.Text workable on my development machine.
+
+The environment is : Visual Studio 2012, ServiceStack version 4.0.23, NHibernate as my ORM
+
+
