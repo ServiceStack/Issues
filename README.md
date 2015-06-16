@@ -7,7 +7,7 @@ Priority support is not available for non-Windows server platforms. The list of 
 
 #### You can [view existing issues](https://github.com/ServiceStack/Issues/issues) or [report a new issue](https://github.com/ServiceStack/Issues/issues/new).
 
-> Each issue **must** be reproducible with either a failing test, sample code, gist, link to a stand-alone project or clear steps to reproduce the issue including all configuration/environment settings as needed to repro the issue locally
+> Each issue **must** be reproducible with either a failing test, sample code, gist, link to a stand-alone project or otherwise clear steps to reproduce the issue including all configuration and environment settings as needed
 
 Request new features over at [ServiceStack's UserVoice](http://servicestack.uservoice.com/forums/176786-feature-requests).
 
