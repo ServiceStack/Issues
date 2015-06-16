@@ -7,6 +7,8 @@ Priority support is not available for non-Windows server platforms. The list of 
 
 #### You can [view existing issues](https://github.com/ServiceStack/Issues/issues) or [report a new issue](https://github.com/ServiceStack/Issues/issues/new).
 
+> Each new issue **must** include a failing test, gist or clear steps to reproduce the issue
+
 Request new features over at [ServiceStack's UserVoice](http://servicestack.uservoice.com/forums/176786-feature-requests).
 
 ## How to create a good Bug Report?
