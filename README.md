@@ -16,9 +16,9 @@ effectively it's reported.
 
 ### 1) Reproducible:
 
-If your bug is not reproducible it will never get fixed. You should clearly provide the steps to reproduce the bug. 
+If your bug is not reproducible it will never get fixed. You should clearly **provide the steps to reproduce the bug**. 
 Do not assume or skip any reproducing step. A Step-by-step description of the issue is easy to reproduce and fix.
-E.g. A failing test with the issue (or in a gist) is the preferred way to report a reproducible error as it contains 
+E.g. **A failing test** with the issue (or in a gist) is the preferred way to report a reproducible error as it contains 
 all the assumptions and environment settings necessary for the error to occur. 
 
 ### 2) Be Specific:
