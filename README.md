@@ -5,13 +5,11 @@ This is the Issue Tracker for commercial customers of ServiceStack only.
 Please register your email or GitHub username at https://servicestack.net/account/support before reporting any issues. 
 Only .NET Core 2.0 is supported on non-Windows platforms. The list of supported ServiceStack packages are on the [download page](https://servicestack.net/download) and [NuGet](https://www.nuget.org/profiles/ServiceStack/).
 
-This Issue tracker is for reporting **reproducible issues only**. Please use the [Customer Forums](https://forums.servicestack.net) or [StackOverflow](https://stackoverflow.com/questions/ask) for any other technical support questions.
+This Issue tracker is for reporting **reproducible bugs/issues only**. Please refer to your [account support page](https://servicestack.net/account/support) for any technical support questions, e.g. using the [Customer Forums](https://forums.servicestack.net/) or [StackOverflow](http://stackoverflow.com/questions/ask) or you can request any features on [ServiceStack's UserVoice](http://servicestack.uservoice.com/forums/176786-feature-requests).
 
 #### You can [view existing issues](https://github.com/ServiceStack/Issues/issues) or [report a new issue](https://github.com/ServiceStack/Issues/issues/new).
 
 > Each issue **must** be reproducible with either a failing test, sample code, gist, link to a stand-alone project or otherwise clear steps to reproduce the issue. For details please see [How to create a Minimal, Complete, and Verifiable example](http://stackoverflow.com/help/mcve).
-
-This Issue tracker is only for reporting reproducible bugs/issues. Please refer to your [account support page](https://servicestack.net/account/support) for any technical support questions, e.g. using the [Customer Forums](https://forums.servicestack.net/) or [StackOverflow](http://stackoverflow.com/questions/ask) or you can request any features on [ServiceStack's UserVoice](http://servicestack.uservoice.com/forums/176786-feature-requests).
 
 ## How to create a good Bug Report?
 
