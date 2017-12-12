@@ -3,7 +3,9 @@ ServiceStack Issues
 
 This is the Issue Tracker for commercial customers of ServiceStack only. 
 Please register your email or GitHub username at https://servicestack.net/account/support before reporting any issues. 
-Priority support is not available for non-Windows server platforms. The list of supported ServiceStack packages are on the [download page](https://servicestack.net/download) and [NuGet](https://www.nuget.org/profiles/ServiceStack/).
+Only .NET Core 2.0 is supported on non-Windows platforms. The list of supported ServiceStack packages are on the [download page](https://servicestack.net/download) and [NuGet](https://www.nuget.org/profiles/ServiceStack/).
+
+This Issue tracker is for reporting **reproducible issues only**. Please use the [Customer Forums](https://forums.servicestack.net) or [StackOverflow](https://stackoverflow.com/questions/ask) for any other technical support questions.
 
 #### You can [view existing issues](https://github.com/ServiceStack/Issues/issues) or [report a new issue](https://github.com/ServiceStack/Issues/issues/new).
 
