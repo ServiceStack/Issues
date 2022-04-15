@@ -1,0 +1,56 @@
+name: "\U0001F41E Bug report"
+description: Report an Issue with ServiceStack
+labels: ['bug: pending triage']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        "Thanks for taking the time to fill out this bug report!"
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Describe the issue
+      description: A clear and concise description of what the Issue is.
+      placeholder: Bug description
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Clear steps to reproduce the behavior or link to GitHub project containing a stand-alone repro.
+      placeholder: Reproduction
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+      placeholder: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: system-info
+    attributes:
+      label: System Info
+      description: The OS, ServiceStack and Project Type Version, e.g. .NET 6, .NET Framework, etc.
+      render: shell
+      placeholder: System, ServiceStack, .NET
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context or screenshots about the issue here.
+  - type: checkboxes
+    id: checkboxes
+    attributes:
+      label: Validations
+      description: Before submitting the issue, please make sure you do the following
+      options:
+        - label: Read the [docs](https://docs.servicestack.net).
+          required: true
+        - label: I have an active ServiceStack License (GitHub Username can be [registered on Support page](https://account.servicestack.net/account/support))
+          required: true
