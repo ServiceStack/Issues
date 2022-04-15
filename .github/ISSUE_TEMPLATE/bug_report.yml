@@ -18,7 +18,7 @@ body:
     id: reproduction
     attributes:
       label: Reproduction
-      description: Clear steps to reproduce the behavior or link to GitHub project containing a stand-alone repro.
+      description: Clear steps to reproduce the behavior or link to PR with failing test or GitHub project containing a stand-alone repro.
       placeholder: Reproduction
     validations:
       required: true
@@ -36,7 +36,7 @@ body:
       label: System Info
       description: The OS, ServiceStack and Project Type Version, e.g. .NET 6, .NET Framework, etc.
       render: shell
-      placeholder: System, ServiceStack, .NET
+      placeholder: System, ServiceStack, .NET Versions
     validations:
       required: true
   - type: textarea
@@ -52,5 +52,5 @@ body:
       options:
         - label: Read the [docs](https://docs.servicestack.net).
           required: true
-        - label: I have an active ServiceStack License (GitHub Username can be [registered on Support page](https://account.servicestack.net/account/support))
+        - label: Have an active ServiceStack License (GitHub Username can be [registered on Support page](https://account.servicestack.net/account/support).
           required: true
