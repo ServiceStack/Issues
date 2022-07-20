@@ -50,7 +50,7 @@ body:
       label: Validations
       description: Before submitting the issue, please make sure you do the following
       options:
-        - label: Read the [docs](https://docs.servicestack.net).
+        - label: Confirm [Issue is reproducible](https://github.com/ServiceStack/Issues#how-to-create-a-good-bug-report) from the information provided
           required: true
-        - label: Have an active ServiceStack License _(GitHub Username can be [registered on Support page](https://account.servicestack.net/account/support))_.
+        - label: Have an active commercial ServiceStack License _(GitHub Username is [registered on Support page](https://account.servicestack.net/account/support))_
           required: true
