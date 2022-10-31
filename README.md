@@ -5,7 +5,7 @@ This is the Issue Tracker for commercial customers of ServiceStack only.
 Please register your email or GitHub username at https://servicestack.net/account/support before reporting any issues. 
 Only .NET Core 2.1 is supported on non-Windows platforms. The list of supported ServiceStack packages are on the [download page](https://servicestack.net/download) and [NuGet](https://www.nuget.org/profiles/ServiceStack/).
 
-This Issue tracker is for reporting **reproducible bugs/issues only**. Please refer to your [account support page](https://servicestack.net/account/support) for your available support options, e.g. You can use the [Customer Forums](https://forums.servicestack.net/) or [StackOverflow](http://stackoverflow.com/questions/ask) for any technical support questions or use [ServiceStack's UserVoice](http://servicestack.uservoice.com/forums/176786-feature-requests) to submit any feature requests.
+This Issue tracker is for reporting **reproducible bugs/issues only**. Please refer to your [account support page](https://servicestack.net/account/support) for your available support options, e.g. You can use the [Customer Forums](https://forums.servicestack.net) or [StackOverflow](http://stackoverflow.com/questions/ask) for any technical support questions or use [servicestack.net/ask](https://servicestack.net/ask) to submit any feature requests.
 
 #### You can [view existing issues](https://github.com/ServiceStack/Issues/issues) or [report a new issue](https://github.com/ServiceStack/Issues/issues/new).
 
