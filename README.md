@@ -1,11 +1,15 @@
 ServiceStack Issues
 ===================
 
-This is the Issue Tracker for commercial customers of ServiceStack only. 
+This is the Issue Tracker for ServiceStack Customers with an **active commercial license** only. 
 Please register your email or GitHub username at https://servicestack.net/account/support before reporting any issues. 
-Only .NET Core 2.1 is supported on non-Windows platforms. The list of supported ServiceStack packages are on the [download page](https://servicestack.net/download) and [NuGet](https://www.nuget.org/profiles/ServiceStack/).
+
+If you do not have an active commercial license you can submit a PR with either a fix or a failing test, alternatively
+you can submit issues to the [Community Issue Tracker](https://github.com/ServiceStack/Discuss/issues/new?assignees=&labels=bug,help+wanted&projects=&template=bug_report.yml).
 
 This Issue tracker is for reporting **reproducible bugs/issues only**. Please refer to your [account support page](https://servicestack.net/account/support) for your available support options, e.g. You can use the [Customer Forums](https://forums.servicestack.net) or [StackOverflow](http://stackoverflow.com/questions/ask) for any technical support questions or use [servicestack.net/ask](https://servicestack.net/ask) to submit any feature requests.
+
+The list of supported ServiceStack packages are listed on [servicestack.net/download](https://servicestack.net/download) and [NuGet](https://www.nuget.org/profiles/ServiceStack/).
 
 #### You can [view existing issues](https://github.com/ServiceStack/Issues/issues) or [report a new issue](https://github.com/ServiceStack/Issues/issues/new?template=bug_report.yml).
 
