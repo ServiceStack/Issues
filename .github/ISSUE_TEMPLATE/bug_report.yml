@@ -6,6 +6,11 @@ body:
     attributes:
       value: |
         "Thanks for taking the time to fill out this bug report!"
+
+        **Security vulnerability? Please do not disclose it here.**
+        Use [private vulnerability reporting](https://github.com/ServiceStack/ServiceStack/security/advisories/new)
+        or the [security reporting portal](https://account.servicestack.net/security).
+        Security reports through GitHub do not require a ServiceStack account or paid subscription.
   - type: textarea
     id: bug-description
     attributes:
